@@ -1,0 +1,110 @@
+{
+    "General": {
+      "Softskills": [
+        "Solving conflict situations",
+        "Received good recommendations from my colleagues",
+        "Received good recommendations from the client",
+        "Received team award (for high performance and quality)"
+      ],
+      "Team leading": [
+        "Onboarding new developers and given them a deep look into the code style and architecture",
+        "Lead team (count >5)",
+        "Lead team (count <5)",
+        "Achieved the status of team lead for helping the team",
+        "Improved the work flow of our team"
+      ],
+      "Refactoring/Performance": [
+        "Decreased app Size (removed unnecessary object creation)",
+        "Decreased app Size (Removed unused libraries)",
+        "Improved app performance (deleted nested layouts)",
+        "Improved app performance (added parallel threads instead of simultaneously work)",
+        "Improved app speed by avoiding freezes/slow performance (added more threads)",
+        "Implement optimizations to enhance the speed and responsiveness",
+        "Fixing UI and performance bugs and issues",
+        "Make application refactoring: design data application layer with reusable network interfaces, provide APIs usage"
+      ],
+      "Design": [
+        "Made dark mode support",
+        "Made adoptive themes for user with poor eyesight",
+        "Made design for tablets"
+      ],
+      "Development": [
+        "Developed and integrated new features into the application based on the specified requirements, ensuring seamless functionality and user experience",
+        "Refactor application functionality: conducted code refactoring to enhance code quality, readability, and maintainability"
+      ],
+      "Leading": [
+        "Leading development of application from scratch",
+        "Onboard new engineers on the project, mentor lower level engineers",
+        "Reached the team lead position during the project",
+        "Organize convenient GitFlow for the team",
+        "Create and support documentation for application solutions",
+        "Actively participate in technical architecture discussions, suggest and present solutions to the team",
+        "Managing the release process"
+      ],
+      "CI/CD": [
+        "Setting up pipelines for CI/CD (TestFairy, TestFlight, Jenkins) automating the build, testing and deployment processes to ensure an efficient development workflow",
+        "Work with setting up new workflows for CI/CD Bitrise, using Fastlane scripts"
+      ],
+      "Tests": [
+        "Provide unit tests coverage for application business logic, provide test coverage checks (more than 85% coverage)",
+        "Test coverage: Create, implement and improve test cases to ensure the application's functionality, identify and resolve defects, and uphold code quality"
+      ],
+      "Communications": [
+        "Provided tasks estimations: team collaboration to estimate the time and effort required for completing development tasks, aiding in project planning and resource allocation",
+        "Demo participation: participated in demonstrations and presentations, showcasing new features and updates to stakeholders and team members",
+        "Collaborate with cross-functional teams to align architecture with overall product vision and technical strategy",
+        "Leading active communication in the international team (engineers, QAs, Designers, cross-functional teams, POs)"
+      ]
+    },
+    "Android": {
+      "Google": [
+        "Integrated OneTap Identity for Google SignIn (to make the user experience better with help of pop up dialog)",
+        "Fixed bug with Google SignIn (when User had no Google account linked to the device, he couldn’t login with Google, so there was created SignUp Google Flow to fix it)",
+        "Integrated In App Language (to support different languages)",
+        "Integrated In App Update (to make the app update comfortable for the user)"
+      ],
+      "Refactoring": [
+        "Refactored layouts to Compose",
+        "Refactored Java to Kotlin",
+        "Refactored RxJava to Coroutines"
+      ],
+      "Design": [
+        "Advices the designers how to make Android app design (because designers knew only IOS user experience)",
+        "Implement design following Material Design Guidelines"
+      ],
+      "Release": [
+        "Release app to Google Play",
+        "Manage Google Play Console Account"
+      ]
+    },
+    "iOS": {
+      "Refactoring": [
+        "Refactored layouts to Swift UI",
+        "Refactored Objective-C to Swift"
+      ],
+      "Design": [
+        "Advices the designers how to make iOS app design (because designers knew only Android user experience)",
+        "Implement design following Human Interface Guidelines"
+      ],
+      "Release": [
+        "Manage AppStore account"
+      ]
+    },
+    "Flutter": {
+      "Refactoring": [
+        "Refactored iOS Native libraries",
+        "Refactored Android Native libraries"
+      ],
+      "Design": [
+        "Advices the designers how to make iOS app design (because designers knew only Android user experience)",
+        "Advices the designers how to make Android app design (because designers knew only iOS user experience)",
+        "Implement design following Material Design Guidelines",
+        "Implement design following Human Interface Guidelines",
+        "Making the design user-friendly by considering the golden middle of android and ios design guidelines"
+      ],
+      "Release": [
+        "Manage AppStore and Google Play Console account"
+      ]
+    }
+  }
+  

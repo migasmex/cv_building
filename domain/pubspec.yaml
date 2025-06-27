@@ -1,0 +1,29 @@
+name: domain
+version: 0.0.1
+publish_to: none
+description: Project domain module
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  core:
+    path: ../core
+  core_ui:
+    path: ../core_ui
+  docx_template:
+    path: ../docx_template
+  html: ^0.15.5
+
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  pdf: ^3.11.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^2.4.8

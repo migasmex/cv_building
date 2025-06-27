@@ -1,0 +1,4 @@
+enum CvGenerationType {
+  basicCv,
+  newCv,
+}

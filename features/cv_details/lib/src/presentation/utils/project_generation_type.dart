@@ -1,0 +1,4 @@
+enum ProjectGenerationType {
+  createNew,
+  chooseExisting,
+}

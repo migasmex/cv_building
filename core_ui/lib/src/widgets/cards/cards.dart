@@ -1,0 +1,1 @@
+export 'cv_card.dart';

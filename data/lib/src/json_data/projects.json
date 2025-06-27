@@ -1,0 +1,268 @@
+{
+  "FINTECH APPLICATIONS": [
+    {
+      "name": "Personal Finance Manager",
+      "description": "A mobile app for tracking personal finances. Users can categorize their expenses, set monthly budgets, and receive notifications when nearing spending limits. The app integrates with banking APIs to sync transactions automatically. Users can set financial goals and track progress with visual charts. It provides AI-driven insights to optimize spending habits and achieve savings targets."
+    },
+    {
+      "name": "Cryptocurrency Portfolio Tracker",
+      "description": "An application that helps users monitor their cryptocurrency investments. Users can add their wallets or manually input assets to track value fluctuations in real-time. Features include price alerts, market news aggregation, and in-app currency exchange. It also offers a “profit-loss” calculator for detailed financial analysis."
+    },
+    {
+      "name": "Stock Trading Platform",
+      "description": "A mobile application for buying and selling stocks. Users can create a watchlist for their favorite stocks, receive market trend notifications, and use AI-powered analytics to make informed investment decisions. The app supports fractional trading and provides tutorials for beginner traders."
+    },
+    {
+      "name": "Expense Sharing App",
+      "description": "A fintech app for managing shared expenses among groups. Perfect for roommates, friends, or colleagues, it tracks who owes whom and automatically calculates settlements. The app integrates with payment systems like PayPal and Venmo to simplify the repayment process. It also offers expense splitting by percentage, item, or category."
+    },
+    {
+      "name": "Invoice Generator for Freelancers",
+      "description": "A lightweight app for freelancers to create and manage invoices. Users can generate professional-looking invoices, set due dates, and send reminders to clients. The app supports multiple currencies and integrates with tax systems for automatic VAT calculations. It also includes analytics to track payment history and outstanding balances."
+    },
+    {
+      "name": "Banking Application",
+      "description": "A banking application that covers more than 200,000 users. On the map you can find the addresses of bank branches and exchangers, using the filter on the map you can find the branch with the most favorable exchange rate. Added the functions of connecting a virtual wallet, adding multiple cards, returning cashback when using a premium card, the ability to enable the function of collecting transaction statistics, which helps to track your expenses for the last three months. The app is perfect for planning your expenses."
+    },
+    {
+      "name": "Application for Investors",
+      "description": "An application for investors: my investments, personal finance, spending diary, training and promotions. Everything is collected in the training to start keeping track of your finances, reduce costs and start earning with investments. You can select assets for your strategy based on analytics and news. The user can receive useful advice every day, as well as notifications about the most important events in the world of investments and the situation on the financial trade."
+    }
+  ],
+  "IOT APPLICATIONS": [
+    {
+      "name": "Smart Home Manager",
+      "description": "An IoT app for controlling smart home devices like lights, thermostats, and security cameras. Users can set automation rules (e.g., turn on lights at sunset), create device groups, and receive notifications about device statuses. It supports voice control through Alexa or Google Assistant integration."
+    },
+    {
+      "name": "IoT Health Tracker",
+      "description": "An app for wearable devices that monitors health metrics like heart rate, sleep quality, and physical activity. It provides personalized recommendations for improving wellness. Users can set fitness goals, receive reminders for daily exercises, and share data with healthcare providers securely."
+    },
+    {
+      "name": "Industrial IoT Monitoring System",
+      "description": "A mobile and desktop app for managing industrial IoT devices. Operators can monitor machine statuses, track real-time production metrics, and receive alerts for equipment malfunctions. The app also provides analytics for predictive maintenance and operational efficiency."
+    },
+    {
+      "name": "Vehicle IoT Control",
+      "description": "An IoT app for car owners to control and monitor their vehicles remotely. Users can check fuel levels, lock/unlock doors, track real-time GPS location, and start the engine for warming up during winter. It also provides alerts for maintenance, fuel efficiency, and battery health."
+    },
+    {
+      "name": "Smart Gardening Assistant",
+      "description": "An IoT app for gardening enthusiasts that connects to smart irrigation systems and soil sensors. Users can monitor soil moisture, temperature, and sunlight exposure in real time. The app recommends watering schedules and plant care tips based on sensor data and weather forecasts."
+    }
+  ],
+  "BANKING APPLICATIONS": [
+    {
+      "name": "Digital Banking Platform",
+      "description": "A mobile app for managing all banking activities. Users can check account balances, transfer money, pay bills, and apply for loans. The app offers advanced features like virtual debit cards, biometric login, and real-time transaction tracking. It also supports multi-currency accounts."
+    },
+    {
+      "name": "Business Banking Dashboard",
+      "description": "An app tailored for small business owners. It provides a consolidated view of business accounts, incoming payments, and expenses. Users can automate payroll, generate financial reports, and set up recurring invoices. The app integrates with accounting software like QuickBooks."
+    },
+    {
+      "name": "Loan Application Manager",
+      "description": "A banking app for applying and managing loans. Users can browse loan products, calculate EMIs, and submit applications with minimal paperwork. The app tracks application progress and provides reminders for EMI payments. It also includes a credit score analyzer."
+    },
+    {
+      "name": "Savings Challenge App",
+      "description": "An app that gamifies saving money. Users can participate in savings challenges (e.g., save $1/day for a month), track progress, and earn rewards for achieving goals. The app syncs with bank accounts to round up purchases and deposit the spare change into savings."
+    },
+    {
+      "name": "Bank Fraud Detection App",
+      "description": "A security-focused app that monitors banking transactions for fraudulent activity. Users receive real-time alerts for suspicious transactions and can freeze accounts instantly. The app leverages AI to detect unusual spending patterns and provides users with a secure communication channel with their bank."
+    }
+  ],
+  "ENTERTAINMENT APPLICATIONS": [
+    {
+      "name": "Streaming Platform Companion",
+      "description": "A mobile app for tracking movies and series on streaming platforms. Users can create watchlists, rate content, and receive recommendations based on viewing history. It also provides notifications for new releases and integrates with popular streaming services for direct play."
+    },
+    {
+      "name": "Event Finder App",
+      "description": "An application for discovering live events, concerts, and festivals. Users can filter events by location, date, and genre. The app provides ticket booking options, event reminders, and social sharing features to invite friends."
+    },
+    {
+      "name": "Music Collaboration Platform",
+      "description": "An app for musicians to collaborate remotely. Users can upload tracks, invite collaborators, and mix music in real-time. The app includes tools like virtual instruments, a beat maker, and a shared music library. It also offers tutorials for aspiring musicians."
+    },
+    {
+      "name": "AR Gaming Experience",
+      "description": "A mobile app that offers augmented reality gaming. Users can explore real-world environments while interacting with AR objects and challenges. The app supports multiplayer modes, leaderboards, and in-game purchases for customizations and power-ups."
+    },
+    {
+      "name": "Podcast Manager",
+      "description": "A podcast application for discovering, subscribing to, and organizing podcasts. Users can create playlists, download episodes for offline listening, and customize playback speeds. The app offers curated recommendations based on listening preferences and allows users to tip creators directly."
+    },
+    {
+      "name": "Full featured music player application",
+      "description": "Supports headphones and background music playback, contains a full-fledged music storage for listening to music from cloud storage. Allows users to create, delete and edit their playlists, add songs to favorites, sort their files by title, author, time added, etc. The service takes into account the user's preferences and offers a playlist of the most favorite songs every day. The app is available for phones and watches."
+    },
+    {
+      "name": "Music editing app",
+      "description": "Allows you to overlay one sound on another, cut and stitch files, control sound effects. Various musical instruments, voice recorder function, sounds of natural effects have been added to the editor to enhance the user experience. The resulting compositions can be saved to local storage, added to favorites and shared via instant messengers. You can also add third-party musical effects to the editor yourself. The resulting music can be listened to in the background."
+    },
+    {
+      "name": "Application for listening to natural sounds",
+      "description": "In this application there are categories of natural sounds such as 'town', 'mountains', 'sea', 'rain' and so on, which contain amount of sounds with various noise level, volume and frequency. User can listen to sound in the foreground and in the background. User can choose several sounds and play them together. There is also a possibility to make sounds mix presets and save them. Whenever a user wants, he also can edit this preset. Set a timer to play sounds. After the timer stops, the application stops playing automatically. The application has paid content, where user can buy locked sounds, make more presets."
+    }
+  ],
+  "HEALTHCARE APPLICATIONS": [
+    {
+      "name": "Mental Health Support Application",
+      "description": "This is an application for mental health support. It includes different articles about mental health and psychology. There is amount of meditation techniques and advices how to relax and reach a calm state. User can save liked articles to the favourites. User can set a timer with a chosen relax melody to have a meditation. Also user can track his mind state each day, see statistics for a week, month, year and compare the average state for different periods. Application has a possibility to set a notification reminder to check-in a mood state. Users can share articles and mood progress in social media."
+    },
+    {
+      "name": "Health and Wellness Management Application",
+      "description": "Mobile application to help users manage their health and wellness. The app offers a range of features to help users track their physical and mental health metrics, access health information, and connect with healthcare providers. The app provides users with up-to-date health news, educational healthcare resources and offers tips and advice for managing their health. The application displays the base information about the user's sleep quality, water balance and mobility rate. Users can set the normal or preferred value for all metrics types and track the progress in achieving them."
+    },
+    {
+      "name": "Medication and Treatment Management Application",
+      "description": "Mobile application to help patients manage their medication and treatment regimens and be in touch with their doctors. The application has two account types: doctors and patients. During the registration users and doctors prefill their profile information including phone number, social links, email. Application support chat feature for doctor and patient communication. Users can book an appointment with a doctor. Appointment features include choosing a doctor specialization, a person, date-time and entering notes. Appointment could be booked for personal schedule or for a video call. All planned appointments are displayed on the appointments screen with their statuses."
+    },
+    {
+      "name": "Nurse Assistance Application",
+      "description": "Application made for nurses to help manage information about patients and their analyses. Every nurse in the laboratory can authorize the application by scanning a unique qr-code. After authorisation she can find a patient in the system and check information about him, get the patient's appointments and a list of tests that patient did, to check if all the samples were done. She has an ability to create a new appointment with new recommended analyses and leave comments and recommendations. Application created for a special device with a scanner module which allows nurses just to scan QR code and get all the information nurses need. Also the application has a print feature, which allows nurses to connect to the printer via Bluetooth and print required labels and medical center stamps."
+    },
+    {
+      "name": "Sleep Regulation Application",
+      "description": "An application that helps regulate sleep mode. The ability to keep a sleep diary, which takes into account the duration of sleep, the time of the deep sleep phase and the average time of falling asleep. Based on the diary, statistics are compiled, a graph is displayed and a conclusion about the quality of sleep is given every day. In addition, daily tips are offered on how to improve your regime and breathing exercises are advised for better falling asleep. By following the recommendations, you can receive rewards for your achievements and bonuses for additional tips."
+    },
+    {
+      "name": "Pregnancy Tracker Application",
+      "description": "An application that helps you keep track of your health during pregnancy. It contains the implementation of a pregnancy diary, tracking weight, blood pressure, waist circumference, daily sends useful articles and reminds you to take vitamins. The application also helps to store data on all the examinations passed, doctor's advice and contains notes so that you can write down your plans for visiting a specialist. The user can maintain a to-do list for each trimester, as well as write down their plans for the first weeks of motherhood. The user profile contains the child's data, weight change statistics, and the child's estimated date of birth."
+    },
+    {
+      "name": "Human Anatomy Study Application",
+      "description": "A mobile application for the study of human anatomy, which allows you to make learning more interactive through the use of 3D models. Due to the simple and intuitive interface, you can view the anatomical structure from any angle. Search and filter functions are included to quickly find the material of interest, making the application very user friendly. For more productive learning, a dictionary of medical terms in 7 languages has been added. The apps are ideal for medical students."
+    },
+    {
+      "name": "Drug Search and Information Application",
+      "description": "Mobile application for drug search by main active ingredient. Helps to determine the dosage of the drug, taking into account the personal characteristics of the user: weight, age and chronic diseases. In your personal account, you can add all the medications you take and individual drug intolerances. Given this data, the application can notify you of possible side effects and the prohibition of the use of drugs. A map has also been added where you can find pharmacies that stock medicine."
+    }
+  ],
+  "TRANSPORT APPLICATIONS": [
+    {
+      "name": "Fleet Management Application",
+      "description": "A fleet management application for tracking information about each vehicle and maintaining it in a timely manner. Each vehicle is referenced to a unique QR-Code. This application helps to record, manage and store all information about trucks. Users can add a new vehicle, filter the list by different parameters, and find trucks by scanning QR-Codes. It allows tracking vehicle maintenance history, fuel consumption trends, maintenance costs, and other critical metrics."
+    },
+    {
+      "name": "Mobile Application for Truck Drivers",
+      "description": "Mobile application for truck drivers to manage routes and vehicle status. The app contains basic info about the truck, driver, and a list of routes. Drivers can see route history and start a new session by scanning a QR-Code on the container. During sessions, a GPS tracker informs operators about the truck's position. Refrigerated trucks can monitor and control temperature. Drivers can update delivery status with date, time, and location."
+    },
+    {
+      "name": "Taxi Ordering Application",
+      "description": "An application for ordering taxis with a user-friendly interface for quick and comfortable transport booking. Filters allow users to select vehicle class, child seat availability, or pet-friendly options. Includes a chat feature for communication with drivers, and supports card payments and virtual wallets."
+    },
+    {
+      "name": "Ticket Booking Application",
+      "description": "A mobile app for booking tickets with a personal account for viewing order history, banners about weather conditions, and a favorite tickets feature. Users can link bank cards or virtual wallets, receive bonuses for discounts, and set up notifications for schedule changes."
+    },
+    {
+      "name": "Storage Container Application",
+      "description": "A mobile application for managing storage containers. Users can search and filter for suitable warehouses, view locations on a map, and save order history in a personal account. Features include discounts for regular users, banners, and the ability to order deliveries from previously booked storage containers."
+    },
+    {
+      "name": "Logistics Delivery Control Application",
+      "description": "An application designed for logistics companies to control delivery status. It tracks delivery parameters and responsible persons at each stage, automates communication between departments, and includes a chat for coordinating work and sending notifications about status changes."
+    }
+  ],
+  "AUTOMOTIVE APPLICATIONS": [
+    {
+      "name": "Car Sharing Rental Application",
+      "description": "An application for per-minute car-sharing rentals. Users can find cars on a map by engine type and gearbox, book cars in advance, and leave reviews. Bonuses for regular and new users can be redeemed for discounts. The app saves booking history for reference during future bookings."
+    },
+    {
+      "name": "Vehicle Diagnostic Tool",
+      "description": "A diagnostic tool and scanner that connects via WiFi or Bluetooth to engine control systems. It works with vehicles that use standard protocols, checks readiness for emissions testing, and alerts users when parts require replacement. Users can find the nearest car service via the map. Includes in-app purchases."
+    }
+  ],
+  "VR/AR APPLICATIONS": [
+    {
+      "name": "Virtual Reality Training Simulator",
+      "description": "A VR application designed for professional training in fields such as healthcare, aviation, and construction. Trainees can immerse themselves in realistic scenarios to practice procedures, emergency responses, or equipment handling. The app includes performance tracking, feedback mechanisms, and multi-user sessions for collaborative training."
+    },
+    {
+      "name": "Augmented Reality Shopping Experience",
+      "description": "An AR application that transforms online shopping into a visual experience. Users can place virtual furniture in their homes, try on clothes or accessories using their phone's camera, and view product details in 3D. The app integrates with e-commerce platforms for seamless purchases."
+    },
+    {
+      "name": "AR City Tour Guide",
+      "description": "A tourism app that provides an interactive city tour using augmented reality. Users can point their devices at landmarks to view historical information, guided routes, or AR reconstructions of how the location looked in the past. The app includes multi-language support and virtual souvenirs."
+    },
+    {
+      "name": "VR Fitness Game",
+      "description": "A VR application that combines gaming with physical fitness. Users can participate in activities like boxing, dance challenges, or obstacle courses. The app tracks calories burned, heart rate (with wearables), and progress over time, making workouts engaging and goal-oriented."
+    },
+    {
+      "name": "AR Educational Toolkit",
+      "description": "An AR app for interactive learning in subjects like science, history, and geography. Students can explore 3D models of planets, dissect virtual frogs, or witness historical events in augmented reality. The app supports gamified quizzes and lesson sharing between teachers and students."
+    }
+  ],
+  "NFC/BLUETOOTH APPLICATIONS": [
+    {
+      "name": "Contactless Payment Wallet",
+      "description": "A mobile wallet application using NFC technology to enable seamless contactless payments. Users can store multiple debit/credit cards securely, make payments by tapping their phones on POS terminals, and track transaction history. The app supports multi-factor authentication and allows splitting bills via NFC."
+    },
+    {
+      "name": "Bluetooth Proximity Marketing App",
+      "description": "An app designed for retailers to send promotional offers to nearby customers via Bluetooth. As users enter the store, they receive personalized discounts and product recommendations based on their preferences and past purchases. The app integrates with loyalty programs and supports coupon redemption in real time."
+    },
+    {
+      "name": "NFC Access Control System",
+      "description": "A security-focused app for managing access to buildings or events using NFC-enabled devices. Users can register their devices as keys and unlock doors by tapping them on NFC readers. Admins can grant or revoke access remotely, set time-based permissions, and monitor entry logs via the app."
+    },
+    {
+      "name": "Bluetooth Device Finder",
+      "description": "A utility app for locating lost Bluetooth-enabled devices like headphones, smartwatches, or fitness trackers. Users can view a proximity-based signal strength indicator and use sound triggers to locate their devices. The app also keeps a history of connected devices and their last known location."
+    },
+    {
+      "name": "NFC Tag Automation App",
+      "description": "An automation app that allows users to program NFC tags for custom tasks. Users can scan tags to perform actions like toggling Wi-Fi, launching specific apps, sending messages, or setting alarms. The app includes pre-made templates for common tasks and a step-by-step guide for new users."
+    }
+  ],
+  "REAL-TIME CALLS/DATA APPLICATIONS USING WEBSOCKETS": [
+    {
+      "name": "Real-Time Collaboration Platform",
+      "description": "An application for teams to collaborate in real time. Features include shared whiteboards, live document editing, and instant messaging. Users can see live updates made by team members without refreshing the page. The app supports notifications for changes, video calls, and integrates with productivity tools like Google Drive."
+    },
+    {
+      "name": "Live Trading Platform",
+      "description": "A financial application for monitoring and trading stocks, forex, or cryptocurrency markets. Users receive real-time updates on market prices, portfolio values, and trade confirmations. The app uses WebSockets to ensure low-latency data delivery and includes interactive charts with live data streaming."
+    },
+    {
+      "name": "Customer Support Chat App",
+      "description": "A live chat solution for businesses to assist customers in real time. The app supports text, voice, and video calls using WebSockets for instant communication. Agents can monitor typing indicators, transfer files, and engage in multi-user chats. Integration with CRMs provides context about the customer’s history."
+    },
+    {
+      "name": "Online Multiplayer Game",
+      "description": "A WebSocket-based gaming platform for real-time multiplayer experiences. Players can join game rooms, see live player movements, and communicate using text or voice chat. The app supports features like matchmaking, leaderboards, and customizable avatars, with seamless updates during gameplay."
+    },
+    {
+      "name": "Real-Time IoT Dashboard",
+      "description": "An IoT application for monitoring and controlling connected devices in real time. Users can see live updates from devices such as temperature sensors, security cameras, or smart home gadgets. The app uses WebSockets to provide instant notifications for critical events, and supports two-way communication for sending control commands."
+    }
+  ],
+  "ORDERING AND DELIVERY APPLICATIONS": [
+    {
+      "name": "Food Delivery App",
+      "description": "A mobile application for ordering food from local restaurants. Users can browse menus, customize dishes, and place orders for delivery or pickup. The app includes real-time tracking of delivery drivers, estimated arrival times, and secure payment options. Users can save favorite restaurants and receive personalized recommendations based on past orders."
+    },
+    {
+      "name": "Grocery Delivery App",
+      "description": "An app for ordering groceries from nearby stores. Users can search for items, create shopping lists, and schedule deliveries at a preferred time. The app supports barcode scanning for easy list creation and provides real-time updates on item availability. It includes subscription options for recurring deliveries of essential items."
+    },
+    {
+      "name": "Courier Service App",
+      "description": "A delivery app that connects users with couriers for sending parcels. Users can enter pickup and drop-off locations, choose package sizes, and get instant price quotes. The app uses live GPS tracking to monitor parcel locations and provides proof of delivery with a photo or signature."
+    },
+    {
+      "name": "Pharmacy Delivery App",
+      "description": "An application for ordering medications and health supplies. Users can upload prescriptions, consult with pharmacists via chat or video calls, and schedule deliveries. The app includes reminders for prescription refills, health tips, and a feature to track orders from the pharmacy to the doorstep."
+    },
+    {
+      "name": "Event Ticket Ordering App",
+      "description": "A platform for purchasing tickets to events such as concerts, sports games, or theater shows. Users can browse upcoming events, select seats using interactive maps, and pay securely. The app generates QR-code-based tickets for easy entry and includes notifications about event updates or offers."
+    }
+  ]
+}

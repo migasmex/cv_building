@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cv-building-flutter",
+          "appId": "1:783300963803:android:bbdd02d709c1a434660bfe",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cv-building-flutter",
+          "configurations": {
+            "android": "1:783300963803:android:bbdd02d709c1a434660bfe",
+            "ios": "1:783300963803:ios:b61995be8d9a3298660bfe",
+            "web": "1:783300963803:web:8d73202415455d51660bfe"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
